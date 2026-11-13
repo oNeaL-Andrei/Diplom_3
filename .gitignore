@@ -3,7 +3,7 @@ __pycache__/
 *.pyo
 *.pyd
 .pytest_cache/
-allure_results/
+allure-results/
 allure-report/
 venv/
 .venv/
